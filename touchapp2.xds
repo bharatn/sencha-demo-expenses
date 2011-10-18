@@ -1,0 +1,44 @@
+{
+    "name": "touchapp2",
+    "settings": {
+        "urlPrefix": "http://localhost/",
+        "directAPI": "",
+        "spacesToIndent": "2",
+        "codeGenFormat": "Class",
+        "exportPath": ".",
+        "extPath": "http://extjs.cachefly.net/touch/sencha-touch-designer-edition/",
+        "lineEnding": "LF",
+        "instantiateStore": true,
+        "exportXDSFiles": true,
+        "genTimestamps": true,
+        "saveOnDeploy": false,
+        "appName": "MyApp",
+        "mapsAPI": "http://maps.google.com/maps/api/js?sensor=true",
+        "disablePromptOnDeploy": false
+    },
+    "xdsVersion": "2.0.0",
+    "application": {
+        "type": "application",
+        "reference": {
+            "name": "items",
+            "type": "array"
+        },
+        "codeClass": null,
+        "userConfig": {
+            "name": "MyApp",
+            "launch": ""
+        }
+    },
+    "components": [],
+    "stores": [],
+    "framework": "touch20",
+    "topInstanceFileMap": {
+        "a30c27d7-7731-4263-b8a6-ffc8fa50d241": {
+            "paths": [
+                "/Users/bharat/Sites/touchapp2/app/view/mainContainer.js",
+                "/Users/bharat/Sites/touchapp2/app/view/ui/mainContainer.js"
+            ],
+            "className": "mainContainer"
+        }
+    }
+}
